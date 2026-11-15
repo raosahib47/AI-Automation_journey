@@ -1,0 +1,14 @@
+{
+    "name": "RaoRumman",
+    "age": 16,
+    "city": "Depalpur",
+    "skills": [
+        "Python",
+        "JSON"
+    ],
+    "goal": {
+        "field": "AI automation",
+        "dream": "Car business"
+    },
+    "studying": true
+}
